@@ -4,10 +4,6 @@
  */
 package com.mycompany.youtube;
 
-/**
- *
- * @author Jared
- */
 public class Video {
     public String titulo;
     public int duracionSegundos;

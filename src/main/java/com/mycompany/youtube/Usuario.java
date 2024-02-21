@@ -4,10 +4,6 @@
  */
 package com.mycompany.youtube;
 
-/**
- *
- * @author Jared
- */
 public class Usuario {
     public String nombre;
     public Video videoSubido;
